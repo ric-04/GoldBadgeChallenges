@@ -1,0 +1,10 @@
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\obj\Debug\Komodo_Claims_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\obj\Debug\Komodo_Claims_Console.csprojAssemblyReference.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\bin\Debug\Komodo_Clamis_Console.exe.config
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\bin\Debug\Komodo_Clamis_Console.exe
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\bin\Debug\Komodo_Clamis_Console.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\bin\Debug\Komodo_Claims_Repo.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\bin\Debug\Komodo_Claims_Repo.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\obj\Debug\Komodo_Claims_Console.csproj.CopyComplete
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\obj\Debug\Komodo_Clamis_Console.exe
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Clamis_Console\obj\Debug\Komodo_Clamis_Console.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Cafe_ Repo\bin\Debug\Komodo_Cafe_ Repo.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Cafe_ Repo\bin\Debug\Komodo_Cafe_ Repo.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Cafe_ Repo\obj\Debug\Komodo_Cafe_Repo.csprojAssemblyReference.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Cafe_ Repo\obj\Debug\Komodo_Cafe_Repo.csproj.CoreCompileInputs.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Cafe_ Repo\obj\Debug\Komodo_Cafe_ Repo.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Cafe_ Repo\obj\Debug\Komodo_Cafe_ Repo.pdb

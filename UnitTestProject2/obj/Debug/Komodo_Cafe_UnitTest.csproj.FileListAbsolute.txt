@@ -1,0 +1,16 @@
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Komodo_Cafe_ Repo.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Komodo_Cafe_ Repo.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\obj\Debug\Komodo_Cafe_UnitTest.csprojAssemblyReference.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\obj\Debug\Komodo_Cafe_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\obj\Debug\Komodo_Cafe_UnitTest.csproj.CopyComplete
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject2\obj\Debug\UnitTestProject2.pdb

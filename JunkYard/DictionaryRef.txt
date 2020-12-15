@@ -1,0 +1,44 @@
+﻿Dictionary<int, Employee> employees = new Dictionary<int, Employee>();
+
+ Employee employee1 = new Employee(1, "Greg");
+            Employee employee2 = new Employee(2, "Sue");
+            Employee employee3 = new Employee(3, "Jessie");
+            Employee employee4 = new Employee(4, "Missy");
+            Employee employee5 = new Employee(5, "Gina");
+
+            employees.Add(1, employee1);
+            employees.Add(2, employee2);
+            employees.Add(3, employee3);
+            employees.Add(4, employee4);
+            employees.Add(5, employee5);
+
+
+            //employee container is of type KeyValuePair<int,Employee>
+            foreach (var employee in employees)
+            {
+                if (employee.Key == 3 || employee.Key == 5)
+                {
+                    Console.WriteLine(employee.Value.EmployeeName);
+                }
+            }
+
+            //employee container is of type int -> we are looping only threw the keys(they are int)
+            foreach (var employee in employees.Keys)
+            {
+                Console.WriteLine(employee);
+            }
+
+            //employee container is of type employee -> we are looping only threw the values(they are employee)
+            foreach (var employee in employees.Values)
+            {
+                Console.WriteLine(employee.EmployeeName);
+            }
+
+            //Just getting the employee with the name Gina
+            //foreach (var employee in employees.Values)
+            //{
+            //    if (employee.EmployeeName == "Gina")
+            //    {
+            //        Console.WriteLine(employee.EmployeeName);
+            //    }
+            //}

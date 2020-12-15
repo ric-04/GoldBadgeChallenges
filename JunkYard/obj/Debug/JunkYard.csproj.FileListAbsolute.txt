@@ -1,0 +1,7 @@
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\JunkYard\bin\Debug\JunkYard.exe.config
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\JunkYard\bin\Debug\JunkYard.exe
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\JunkYard\bin\Debug\JunkYard.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\JunkYard\obj\Debug\JunkYard.csprojAssemblyReference.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\JunkYard\obj\Debug\JunkYard.csproj.CoreCompileInputs.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\JunkYard\obj\Debug\JunkYard.exe
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\JunkYard\obj\Debug\JunkYard.pdb
