@@ -1,0 +1,17 @@
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Komodo_Badges_Repo.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Komodo_Badges_Repo.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Komodo_Badges_Repo.dll.config
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\obj\Debug\UnitTestProject3.csprojAssemblyReference.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CoreCompileInputs.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\obj\Debug\UnitTestProject3.csproj.CopyComplete
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\UnitTestProject3\obj\Debug\UnitTestProject3.pdb

@@ -25,7 +25,7 @@ namespace JunkYard
             foreach (var employee in employees)
             {
                 Console.WriteLine(employee.Key);
-                Console.WriteLine("**Employee info below**");
+                Console.WriteLine("Employee info below");
                 Console.WriteLine(employee.Value.Id);
                 Console.WriteLine(employee.Value.EmployeeName);
             }

@@ -13,10 +13,11 @@ namespace Komodo_Badges_Repo
         Agent,
     }*/
 
+    // POCO
     public class Badge
     {
         public int BadgeID { get; set; }
-        public List<string> Doors { get; set; }
+        public List<string> Doors { get; set; } = new List<string>();
         //public EmployeeType EmployeeType { get; set; } <- Not needed now.
 
         public Badge() { }

@@ -19,13 +19,13 @@ namespace Komodo_Cafe_Repo
         {
             _menuDirectory.Add(menuItem);
         }
-        //Read
+        // Read
         public List<ElementoMenu> ConseguirTodasComidas()
         {
             return _menuDirectory;
         }
 
-        //Helper Method 
+        // Helper Method 
         public ElementoMenu ConseguirComidasById(int id)
         {
             foreach (var item in _menuDirectory)

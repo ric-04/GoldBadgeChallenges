@@ -89,5 +89,22 @@ namespace Komodo_Claims_Repo
                 return false;
             }
         }
+
+        //other version using a Timespan
+        public bool IsClaimValid2(DateTime inputDateofIncident, DateTime inputDateofClaim, int validationTimeInDays)
+        {
+            var answer = inputDateofIncident - inputDateofClaim;
+            //Console.WriteLine("answer:" + " "+answer);
+            var condition = TimeSpan.FromDays(answer.Days);
+
+            if (condition.Days <= validationTimeInDays && condition.Days >0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
     }
 }

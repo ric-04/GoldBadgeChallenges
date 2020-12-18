@@ -17,7 +17,7 @@ namespace Komodo_Badges_Repo
         {
             // Count ++ <- This prevent duplicate same key values.
             Count++;
-            _dictionaryBadgeDatabase.Add(Count, badge);
+            _dictionaryBadgeDatabase.Add(Count, badge); // <- Want to use Count here instead of BadgeID, "automate" this to prevent errors in program.
         }
 
         // Read
@@ -34,7 +34,7 @@ namespace Komodo_Badges_Repo
             {
                 oldBadge.BadgeID = newBadge.BadgeID;
                 oldBadge.Doors = newBadge.Doors;
-                oldBadge.EmployeeType = newBadge.EmployeeType;
+               
                 return true;
             }
             else
@@ -42,8 +42,9 @@ namespace Komodo_Badges_Repo
                 return false;
             }
         }
-
-        private Badge GetBadgeByKey(int dictKey)
+        // Remember, KEYS & VALUES, are attached together.
+        // Helper Method
+        public Badge GetBadgeByKey(int dictKey)
         {
             foreach (var badge in _dictionaryBadgeDatabase)
             {
@@ -56,7 +57,8 @@ namespace Komodo_Badges_Repo
         }
 
         // Delete
-        private bool RemoveDoor(int dictKey, string doorName)
+        // Helper Method
+        public bool RemoveDoor(int dictKey, string doorName)
         {
             Badge badge = GetBadgeByKey(dictKey);
             if (badge != null)

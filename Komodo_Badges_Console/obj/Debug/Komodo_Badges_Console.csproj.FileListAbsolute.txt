@@ -1,0 +1,11 @@
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.csprojAssemblyReference.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.csproj.CoreCompileInputs.cache
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Console.exe.config
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Console.exe
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Console.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Repo.dll
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Repo.pdb
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\bin\Debug\Komodo_Badges_Repo.dll.config
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.csproj.CopyComplete
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.exe
+C:\Users\Ric Wallace\source\repos\GoldBadgeChallenges\Komodo_Badges_Console\obj\Debug\Komodo_Badges_Console.pdb
